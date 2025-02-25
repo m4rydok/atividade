@@ -29,5 +29,7 @@
 @media screen and (mind-width: 1024px){
     .conteiner_frase{
         padding-left: 5em;
+        font-size-adjust: 20px;
+        display: block;
     }
 }
