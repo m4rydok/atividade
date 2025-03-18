@@ -12,13 +12,13 @@
     .container_titulo, .container_frase{
     display:none;
     }
-
-
-
-
+ 
+ 
+ 
+ 
     @media screen and (min-width: 820px)  {
         .conteiner_titulo, .coiteiner_titulo--negrito{
-            font-size: 30px;
+           font-size: 30px;
         
     }
     .conteiner_titulo{
@@ -26,7 +26,7 @@
         display: block;
     }
 }
-@media screen and (min-width: 1024px){
+    @media screen and (min-width: 1024px){
     .conteiner_frase{
         padding-left: 5em;
         font-size-adjust: 20px;
